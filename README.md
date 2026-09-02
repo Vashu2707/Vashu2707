@@ -130,10 +130,21 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Vashu2707&show_icons=true&theme=radical&title_color=00F0FF&icon_color=FF00FF&hide_border=true"
+    src="./profile/stats.svg"
     height="180"
     alt="Vashu's GitHub Stats"
   />
+</p>
+
+<p align="center">
+  <img
+    src="./profile/top-langs.svg"
+    height="180"
+    alt="Vashu's Top Languages"
+  />
+</p>
+
+<p align="center">
   <img
     src="https://streak-stats.demolab.com?user=Vashu2707&theme=radical&ring=FF00FF&fire=00F0FF&currStreakLabel=00F0FF&hide_border=true"
     height="180"
@@ -143,18 +154,11 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vashu2707&layout=compact&theme=radical&title_color=00F0FF&hide_border=true"
-    height="180"
-    alt="Vashu's Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Vashu2707&theme=react-dark&bg_color=0D1117&color=00F0FF&line=FF00FF&point=FFFFFF&hide_border=true"
     alt="Vashu's GitHub Activity Graph"
   />
 </p>
+
 
 
 ---
